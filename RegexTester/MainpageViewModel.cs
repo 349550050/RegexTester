@@ -7,7 +7,6 @@ using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Input;
 using RegexTester;
-using V2.Elements.Paramers;
 
 namespace RegexTester
 {

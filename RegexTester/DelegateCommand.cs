@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
-namespace V2.Elements.Paramers
+namespace RegexTester
 {
     public class DelegateCommand<T>:CommandBase
     {
